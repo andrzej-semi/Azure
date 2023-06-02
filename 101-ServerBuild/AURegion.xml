@@ -5,21 +5,21 @@
 </gs:UserList>
 <!-- user locale -->
 <gs:UserLocale> 
-    <gs:Locale Name="en-AU" SetAsCurrent="true"/> 
+    <gs:Locale Name="en-GB" SetAsCurrent="true"/> 
 </gs:UserLocale>
 <!-- system locale -->
-<gs:SystemLocale Name="en-AU"/>
+<gs:SystemLocale Name="en-GB"/>
 <!-- GeoID -->
 <gs:LocationPreferences> 
-    <gs:GeoID Value="12"/> 
+    <gs:GeoID Value="242"/> 
 </gs:LocationPreferences>
 <gs:MUILanguagePreferences>
-	<gs:MUILanguage Value="en-AU"/>
+	<gs:MUILanguage Value="en-GB"/>
 	<gs:MUIFallback Value="en-US"/>
 </gs:MUILanguagePreferences>
 <!-- input preferences -->
 <gs:InputPreferences>
     <!--en-AU-->
-    <gs:InputLanguageID Action="add" ID="0c09:00000409" Default="true"/> 
+    <gs:InputLanguageID Action="add" ID="0809:00000809" Default="true"/> 
 </gs:InputPreferences>
 </gs:GlobalizationServices>
