@@ -3,9 +3,9 @@
 # Blogpost: https://mscloud.be/configure-regional-settings-and-windows-locales-on-azure-virtual-machines/
 #
 ######################################33
-
+#https://raw.githubusercontent.com/andrzej-semi/Azure/9bcb221c73851760dd48fc15783ce7e241e3fe71/101-ServerBuild/AURegion.xml
 #variables
-$regionalsettingsURL = "https://raw.githubusercontent.com/andrzej-semi/Azure/9bcb221c73851760dd48fc15783ce7e241e3fe71/101-ServerBuild/AURegion.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/andrzej-semi/Azure/master/101-ServerBuild/AURegion.xml"
 $RegionalSettings = "D:\AURegion.xml"
 
 
